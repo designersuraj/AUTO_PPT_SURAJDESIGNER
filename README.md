@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AUTO_PPT_SURAJDESIGNER
 
 Automated PowerPoint Generation from Image-based Questions using OCR
@@ -46,3 +47,6 @@ This project provides a Python script to process scanned question images, extrac
 
 ---
 For more information, visit [surajdesigner.com](https://surajdesigner.com) 
+=======
+# AUTO_PPT_SURAJDESIGNER
+>>>>>>> 9c83556d71a4e75676d1c8080103f52bbc7fb911
